@@ -1,0 +1,11 @@
+
+classroom-block1-50A		50
+U-block-E		50
+U-block-F		50
+U-block-G		50
+Amphy-150-A		150
+U-block-D		50
+Classroom-block1-50H		50
+Classroom-block1-50G		50
+Classroom-block1-150A		50
+Classroom-block1-150B		50

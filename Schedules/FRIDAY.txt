@@ -1,0 +1,3 @@
+
+CLASSNAME		COURSE_CODE		TIME
+U-block-F		cef210		7am-11am
